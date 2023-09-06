@@ -20,7 +20,7 @@ public class GetInputFromUser {
 		float f=sc.nextFloat();
 		System.out.println("You entered: "+f);
 		
-		sc.close();
+		sc.close(); //close Scanner object
 
 	}
 
